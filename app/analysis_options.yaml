@@ -1,0 +1,18 @@
+include: package:lints/recommended.yaml
+
+# analyzer:
+#   strong-mode:
+#     implicit-casts: false
+#     implicit-dynamic: false
+#   exclude:
+#     - "bin/cache/**"
+#       # Ignore protoc generated files
+#     - "dev/conductor/lib/proto/*"
+
+# linter:
+#   rules:
+#     # - prefer_const_constructors
+#     # - prefer_const_declarations
+#     # - avoid_print
+#     - use_key_in_widget_constructors
+#     - lines_longer_than_80_chars
